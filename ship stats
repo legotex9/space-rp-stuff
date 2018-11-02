@@ -1,0 +1,24 @@
+ship stats:
+>Name: Peregrine
+>Class: interstellar
+>FTL: cutting edge alcubierre drive capable of warp 3
+>rooms:
+>>1 cockpit
+>>2 bedrooms
+>>3 med bays
+>>>1 of the bays is dedicated for surgery
+>>1 bathroom
+>>1 kitchen/dinning room
+>>1 engineering center
+>>>large matter replicator
+>>>5 axis CNC machine with over 400 tools.
+>>>mechanical work bench with tools
+>>>mini-electronics lab, with power supplies, oscilloscopes, and a soldering iron
+>>senior engineer only:
+>>>engineering control
+>>>reactor 1
+>>>reactor 2
+>>>engine A
+>>>engine B
+>>captain only:
+>>>A.V.A. control
